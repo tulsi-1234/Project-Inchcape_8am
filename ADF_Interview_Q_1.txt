@@ -1,0 +1,31 @@
+Interview questions as if now I have faced.
+
+MOST INPORTENT QUESTIONS AND ANSWERS
+
+
+
+1. If customer asked to get all the files and filenames from Azure DLS which are updated recently, how to get that data with file count and file names as well.
+2. What is surrogate key and its use and where we will use it.
+3. What are constraints and how can we restrict access using constraints.
+4. What are security components in Azure Data Lake and how can we restrict access to users in ADLS.
+5. What is polybase and how will we implement in Azure Datwarehouse.
+6. Difference between Azure SQl and Azure Datwarehouse.
+7. What is difference between Azure Blob and Azure Datalake.
+8. What is SCD and what type of SCD you have used and how can we create type2 SCD.
+9. What is snowflake and its use and where we will use it.
+10. I have a pipeline and it has multiple activities and we want to skip particular activity in pipeline everyday. How to achieve this.
+11. What are the types of Integration Runtime in ADF.
+12. I have data in Amazon or GCP where we have to copy the data, which Integration Runtime we will use?
+13. We have a modified data of last 3 days and how to ingest that data into ADLS using ADF.
+14. How can we perform incremental copy of data in ADF.
+15. How to scan the files which are present in ADLS.
+16. How to upload full copy of data instead of incremental data in ADF.
+17. what is data modelling and its process.
+18. What is coalesce in Azure Databricks and when we will use this and how we will implement this.
+19. How to set email notification for evry activity in pipeline if the activity gets fail or success or any error.
+20. Why do we need Azure Datwarehouse if already there is Azure SQL in your project.
+21. What are OLTP and OLAP and difference between them and when the OLTP AND OLAP will generate and where we will store those.
+22. I have 10 tables and how to copy all the 10 tables data in ADF and how we will do it and how many pipelines we will create to copy 10 tables of data.
+23.How to set the ADF pipeline that needs to copy the data during the time interval and after that it should not copy the data.
+24. What kind of transformations you have used in project and what is it for?
+25.How to process the cloud native data to ADF and what integration runtime you will use for it.
